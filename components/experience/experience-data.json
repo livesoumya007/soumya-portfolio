@@ -22,10 +22,11 @@
         "AI-enabled engineering workflows"
       ],
       "bullets": [
-        "Designed and delivered a **scalable Next.js booking platform for Carnival**, architecting a **microfrontend system** on **Atomic Design principles** to enable modular, independently deployable experiences.",
-        "Integrated **AEM and GraphQL into the frontend architecture**, powering dynamic content delivery and enterprise data integration across the booking UI.",
-        "Owned **technical onboarding for new engineers**, creating structured learning paths covering platform architecture, TypeScript conventions, design patterns, and development workflows, significantly reducing ramp-up time.",
-        "Architected reusable **AI-enabled engineering workflows** empowering developers to **leverage AI** consistently while maintaining code quality, security standards, and architectural integrity across the platform"
+        "Architected and delivered a scalable **Next.js** booking platform for Carnival, decomposing the experience into a **micro-frontend** system built on **Atomic Design** principles so squads ship modular, independently deployable journeys without cross-team release coordination.",
+        "Integrated **React** frontends with **Python FastAPI** services through standardized **RESTful** endpoints for pricing, availability and itinerary features, partnering with backend teams on **OpenAPI** contracts, request validation and error-handling conventions.",
+        "Containerized the Next.js application with **Docker** and deployed it on **AWS ECS** through a **CI/CD** pipeline, serving static assets via **S3** and **CloudFront** while **AEM** remained the headless content source, which let each squad release its journeys independently of AEM content publishing.",
+        "Integrated **AEM content fragments** and **GraphQL** into the frontend architecture, powering dynamic content delivery and enterprise data integration across the booking journey.",
+        "Built reusable **AI-enabled engineering workflows** that let developers apply AI consistently across the platform while preserving code quality, security standards and architectural integrity."
       ]
     },
     {
